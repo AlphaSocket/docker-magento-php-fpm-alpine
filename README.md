@@ -1,4 +1,5 @@
-# docker-magento-php-fpm-alpine
+# docker-magento-php-fpm-alpine - (deprecated. Use https://github.com/AlphaSocket/dockerized-php-fpm-alpine)
+
 A php-fpm microservice built on alpine distro
 
 Installed extensions:
